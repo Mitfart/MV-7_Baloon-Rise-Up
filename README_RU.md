@@ -9,13 +9,13 @@
 
 ## Галерея
 
-<img src="_images/0_start.png" width="180" alt="Start" />
-<img src="_images/1_lvl1.png" width="180" alt="Level 1" />
-<img src="_images/2_lvl2.png" width="180" alt="Level 2" />
-<img src="_images/3_lvl3.png" width="180" alt="Level 3" />
-<img src="_images/4_lvl4.png" width="180" alt="Level 4" />
-<img src="_images/5_end.png" width="180" alt="End" />
-<img src="_images/6_end_lose.png" width="180" alt="Fail" />
+<img src="images/0_start.png" width="180" alt="Start" />
+<img src="images/1_lvl1.png" width="180" alt="Level 1" />
+<img src="images/2_lvl2.png" width="180" alt="Level 2" />
+<img src="images/3_lvl3.png" width="180" alt="Level 3" />
+<img src="images/4_lvl4.png" width="180" alt="Level 4" />
+<img src="images/5_end.png" width="180" alt="End" />
+<img src="images/6_end_lose.png" width="180" alt="Fail" />
 
 ## Особенности
 
