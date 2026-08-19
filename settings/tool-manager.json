@@ -1,7 +1,7 @@
 {
   "configurations": [
     {
-      "id": "194c50ce-6034-43ce-86f8-a12376968b23",
+      "id": "11d6a47c-3f9a-4e8c-8262-e98dc51202b2",
       "name": "默认配置",
       "description": "自动创建的默认工具配置",
       "tools": [
@@ -306,10 +306,10 @@
           "description": "MCP REQUEST FORMATTING: Generate properly formatted MCP tool call request with correct JSON structure. USAGE: Provide tool name and arguments, get back complete MCP request ready to send. Handles all JSON escaping and protocol formatting automatically."
         }
       ],
-      "createdAt": "2026-08-10T09:42:56.797Z",
-      "updatedAt": "2026-08-14T12:46:44.125Z"
+      "createdAt": "2026-08-19T11:04:12.450Z",
+      "updatedAt": "2026-08-19T11:04:12.450Z"
     }
   ],
-  "currentConfigId": "194c50ce-6034-43ce-86f8-a12376968b23",
+  "currentConfigId": "11d6a47c-3f9a-4e8c-8262-e98dc51202b2",
   "maxConfigSlots": 5
 }
