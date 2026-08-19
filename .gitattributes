@@ -1,3 +1,0 @@
-# Normalize all text files to LF in the repo (repo blobs are LF; Windows
-# editors may write CRLF, which git then normalizes on add/diff).
-* text=auto
